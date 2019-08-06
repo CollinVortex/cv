@@ -14,3 +14,5 @@ mkShell {
       })
   ];
 }
+
+make your project PRIVATE
